@@ -19,6 +19,3 @@ Firstly, coming to the dataset creation, the current repository contains a folde
 
 By executing the **Create_Dataset.py** file, it prompts the user for his/her desired label, number of images to be captured and then starts capturing the required number of images and stores them into a folder with the name previously prompted for. Then by executing the **convert_to_csv.py** file those collected images can be converted into a CSV file.
 
-
-
-### The Research paper "Smart Attendance Management System Based on Face Recognition Using CNN" is published in [IEEE](https://ieeexplore.ieee.org/abstract/document/9242847). DOI: 10.1109/HYDCON48903.2020.9242847
